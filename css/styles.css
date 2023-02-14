@@ -554,12 +554,10 @@ footer .title {
 }
 
 .subscribe-form{
-    display: flex;
     margin-left: auto;
 }
 
 .subscribe-input {
-    display: inline-flex;
     padding: 16px;
     width: 358px;
     min-height: 50px;
